@@ -1,6 +1,6 @@
 """
 Car Price Prediction with Machine Learning
-Task 3: Code Alpha Internship
+Task 3: 
 
 This script performs:
 1. Data loading and exploration
